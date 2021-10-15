@@ -9,6 +9,10 @@
 #Since we are not chaining anything together, we use the Python convention of an underscore to indicate that we won’t use this parameter. The line parameter will be the line of text taken from the raw input file.
 
 #Use the code to Yield functions
+#The mrjob library works by reading in a file passed to it in the terminal.
+
+
+#The above text is related to the following code. From what we understood, this code reads data, though it does not do the command until it  has tghe green light to finally go ahead.
 from mrjob.job import MRJob
 class Bacon_count(MRJob):
    def mapper(self, _, line):
@@ -21,5 +25,5 @@ class Bacon_count(MRJob):
 if __name__ == "__main__":
    Bacon_count.run()
 
-#The mrjob library works by reading in a file passed to it in the terminal.
+
 
