@@ -30,4 +30,7 @@ This is Challenge16 test
 <img width="797" alt="Screen Shot 2021-10-17 at 11 30 26 PM" src="https://user-images.githubusercontent.com/25726054/137665115-5008ea3b-d305-40fe-823c-27f590f35cd9.png">
 
 
+##### The final step is to get our transformed raw data into our database. PySpark can easily connect to a database to load the DataFrames into the table. The following is what we need to do, similar to the Bootcamp instruction. 
+<img width="563" alt="Screen Shot 2021-10-17 at 11 59 41 PM" src="https://user-images.githubusercontent.com/25726054/137667300-98926d8b-b130-4123-868c-9a4d3dd35311.png">
+
 ## Summary
