@@ -22,10 +22,6 @@ This is Challenge16 test
 ###### review_id_table DataFrame. 
 <img width="812" alt="Screen Shot 2021-10-17 at 11 30 12 PM" src="https://user-images.githubusercontent.com/25726054/137665097-a894393c-0be8-4a5b-b2aa-cc67699ad0ba.png">
 
-###### review_id_table DataFrame. 
-<img width="800" alt="Screen Shot 2021-10-17 at 11 30 54 PM" src="https://user-images.githubusercontent.com/25726054/137665140-88baa5ce-3d20-46ec-9553-ebeec54f9e0b.png">
-
-
 ###### vine_table. DataFrame
 <img width="797" alt="Screen Shot 2021-10-17 at 11 30 26 PM" src="https://user-images.githubusercontent.com/25726054/137665115-5008ea3b-d305-40fe-823c-27f590f35cd9.png">
 
