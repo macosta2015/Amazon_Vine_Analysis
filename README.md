@@ -3,7 +3,7 @@ This is Challenge16 test
 
 
 ## Overview of the analysis 
-##### This  purpose it to use new tools to store data and then compare it. We learned in the module that Bid Data requires huge cpmputer power and so we need to borrow computers from the internet to process it. New tools and old tools are going to be used: Google colab, Amazon Web Services, pgAdmin, SparkFiles.
+##### This  purpose it to use new tools to store data and then compare it. We learned in the module that Big Data requires huge cpmputer power and so we need to borrow computers from the internet to process it. New tools and old tools are going to be used: Google colab, Amazon Web Services, pgAdmin, SparkFiles.
 ##### In this case the data is not huge, though we are going to use the tools to learn. 
 ##### We are going to compare data and check if there is a vias. In this case we are going to retrieve data from AWS. This AWS data will then be transformed into dataframes. 
 
