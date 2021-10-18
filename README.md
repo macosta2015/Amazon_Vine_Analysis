@@ -7,6 +7,8 @@ This is Challenge16 test
 ##### In this case the data is not huge, though we are going to use the tools to learn. 
 ##### We are going to compare data and check if there is a vias. In this case we are going to retrieve data from AWS. This AWS data will then be transformed into dataframes. 
 
+## 1
+
 #### Data from AWS
 <img width="839" alt="Screen Shot 2021-10-17 at 11 25 14 PM" src="https://user-images.githubusercontent.com/25726054/137664693-0d0f3e05-d029-45ab-a471-7e06ff4b3bc1.png">
 
@@ -32,9 +34,9 @@ This is Challenge16 test
 <img width="757" alt="Screen Shot 2021-10-18 at 12 04 04 AM" src="https://user-images.githubusercontent.com/25726054/137667636-20fe680c-59eb-4ba8-9ba4-0b7f11347b60.png">
 
 
+## 2
 
-
-## Checking if there is any bias towards reviews. The goal is to check if a paid Vine review makes a difference in the percentage of the 5-star review
+##### Checking if there is any bias towards reviews. The goal is to check if a paid Vine review makes a difference in the percentage of the 5-star review
 
 ##### We first generate a DataFrame that the count of reviews is equal or greater than 20.
 ## Summary 
