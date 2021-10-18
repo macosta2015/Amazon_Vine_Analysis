@@ -30,6 +30,11 @@ This is Challenge16 test
 <img width="563" alt="Screen Shot 2021-10-17 at 11 59 41 PM" src="https://user-images.githubusercontent.com/25726054/137667300-98926d8b-b130-4123-868c-9a4d3dd35311.png">
 
 <img width="757" alt="Screen Shot 2021-10-18 at 12 04 04 AM" src="https://user-images.githubusercontent.com/25726054/137667636-20fe680c-59eb-4ba8-9ba4-0b7f11347b60.png">
+![Uploading Screen Shot 2021-10-18 at 1.41.39 AM.png…]()
 
 
+
+## Checking if there is any bias towards reviews. The goal is to check if a paid Vine review makes a difference in the percentage of the 5-star review
+
+##### We first generate a DataFrame that the count of reviews is equal or greater than 20.
 ## Summary 
