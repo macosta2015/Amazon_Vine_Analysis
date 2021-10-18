@@ -27,7 +27,7 @@ This is Challenge16 test
 
 
 ###### vine_table. DataFrame
-Results <img width="797" alt="Screen Shot 2021-10-17 at 11 30 26 PM" src="https://user-images.githubusercontent.com/25726054/137665115-5008ea3b-d305-40fe-823c-27f590f35cd9.png">
+<img width="797" alt="Screen Shot 2021-10-17 at 11 30 26 PM" src="https://user-images.githubusercontent.com/25726054/137665115-5008ea3b-d305-40fe-823c-27f590f35cd9.png">
 
 
 ## Summary
