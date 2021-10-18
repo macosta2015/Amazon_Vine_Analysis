@@ -38,5 +38,13 @@ This is Challenge16 test
 
 ##### Checking if there is any bias towards reviews. The goal is to check if a paid Vine review makes a difference in the percentage of the 5-star review
 
+
 ##### We first generate a DataFrame that the count of reviews is equal or greater than 20.
+<img width="564" alt="Screen Shot 2021-10-18 at 1 44 39 AM" src="https://user-images.githubusercontent.com/25726054/137675308-faeb1227-aa19-4707-acad-d4adc663c34f.png">
+
+##### We then filter the tables in two (paid and unpaids reviews)
+<img width="612" alt="Screen Shot 2021-10-18 at 1 46 00 AM" src="https://user-images.githubusercontent.com/25726054/137675420-ee75c1b4-32a2-4f21-90c8-fac514967e38.png">
+<img width="579" alt="Screen Shot 2021-10-18 at 1 46 10 AM" src="https://user-images.githubusercontent.com/25726054/137675442-125ebbc9-b805-47c2-bea4-0cb30bd6b88d.png">
+
+
 ## Summary 
