@@ -46,7 +46,7 @@ This is Challenge16 test
 <img width="612" alt="Screen Shot 2021-10-18 at 1 46 00 AM" src="https://user-images.githubusercontent.com/25726054/137675420-ee75c1b4-32a2-4f21-90c8-fac514967e38.png">
 <img width="579" alt="Screen Shot 2021-10-18 at 1 46 10 AM" src="https://user-images.githubusercontent.com/25726054/137675442-125ebbc9-b805-47c2-bea4-0cb30bd6b88d.png">
 
-##### The count and percentage of paid and unpaid are calculated. It seems that that the paid and unpaid reviews are irrelevant. 
+##### The count and percentage of paid and unpaid are calculated. 
 <img width="502" alt="Screen Shot 2021-10-18 at 1 59 09 AM" src="https://user-images.githubusercontent.com/25726054/137676733-007d1917-4e13-412e-97c2-71879064925a.png">
 <img width="526" alt="Screen Shot 2021-10-18 at 1 59 37 AM" src="https://user-images.githubusercontent.com/25726054/137676775-3e9bd444-ba92-4e2e-971a-674c512fb44a.png">
 
